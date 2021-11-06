@@ -48,7 +48,7 @@ And this was followed by splitting the data into train and test.
 The following regressors were used:
 1. Decision Tree Regressor
 2. Random Forest Regressor
-3. Ensemble
+3. Ensemble learning
 
 Accuracy Score:
 Decision Tree Regressor: 64.7%
