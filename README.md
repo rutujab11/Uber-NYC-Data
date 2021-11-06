@@ -40,11 +40,11 @@ And this was followed by splitting the data into train and test.
 
 ## Algorithms
 
-- Clustering
+- Clustering: 
   The data was modeled for clustering using sklearn
   Method used: K-Means Clustering
 
-- Regressors
+- Regressors: 
 The following regressors were used:
 1. Decision Tree Regressor
 2. Random Forest Regressor
